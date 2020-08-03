@@ -11,6 +11,6 @@ I want to perform some Automatic action, which will repeat in every 30 minutes
 
 Tools used :
 
-Language  - Python
-Libraries - Selenium, BeautifulSoup
-Browser   - Firefox
+* Language  - Python
+* Libraries - Selenium, BeautifulSoup
+* Browser   - Firefox
