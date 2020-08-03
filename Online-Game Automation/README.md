@@ -5,6 +5,8 @@ Google unleashedfear - register and sign in.
 I want the script to go open up the chrome browser, go to the crimes page, check if the row contains the word 'Strong' and if the crime percentage chance is '100%', then select the radio button in that row.
 Then hit the submit button.
 
+![Problem](Problem.png)
+
 Tools used :
 
 * Language - Python
