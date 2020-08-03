@@ -8,8 +8,7 @@ I want to perform some Automatic action, which will repeat in every 30 minutes
 5. After 1 min close the tab.
 6. You have to teach me to setup, so that ill setup in multiple PC and I can change keyword any time.
 
-![Problem Statement]
-(https://github.com/rounak2105/freelancing/blob/master/Travel/Problem.png)
+![Problem-Statement](Problem.png)
 
 Tools used :
 
